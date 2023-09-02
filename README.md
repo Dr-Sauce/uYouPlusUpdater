@@ -1,6 +1,8 @@
 # uYouPlusUpdater
 Update uYouPlus more easily
 
+![image](https://github.com/Dr-Sauce/uYouPlusUpdater/assets/82555878/adb38d9e-6ab6-4415-86aa-b90f1cec5620)
+
 # How to install:
 
 1. Go to [**releases**](https://github.com/Dr-Sauce/uyouplusupdater/releases/latest) and download the latest version.
