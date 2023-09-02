@@ -1,5 +1,5 @@
 # uYouPlus Updater
-Update uYouPlus more easily
+Update uYouPlus more easily.
 
 Requires [TrollStore](https://github.com/opa334/TrollStore) and [Scriptable](https://apps.apple.com/app/scriptable/id1405459188).
 
