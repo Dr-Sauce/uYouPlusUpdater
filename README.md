@@ -1,7 +1,7 @@
 # uYouPlus Updater
-Update uYouPlus more easily.
+Update uYouPlus more easily. Requires [Scriptable](https://apps.apple.com/app/scriptable/id1405459188).
 
-Requires [Scriptable](https://apps.apple.com/app/scriptable/id1405459188).
+Designed to work on iOS 15. (But also works on other versions)
 
 ![image](https://github.com/Dr-Sauce/uYouPlusUpdater/assets/82555878/adb38d9e-6ab6-4415-86aa-b90f1cec5620)
 
