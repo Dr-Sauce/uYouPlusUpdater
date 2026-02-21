@@ -1,5 +1,5 @@
-# uYouPlus Updater
-Update uYouPlus more easily. Requires [Scriptable](https://apps.apple.com/app/scriptable/id1405459188).
+# ~~uYouPlus~~ Updater
+Recieve IPA updates from GitHub repositories. Requires [Scriptable](https://apps.apple.com/app/scriptable/id1405459188).
 
 Designed to work on iOS 15. (But also works on other versions)
 
