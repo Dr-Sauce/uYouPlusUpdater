@@ -1,7 +1,7 @@
 # ~~uYouPlus~~ Updater
 Recieve IPA updates from GitHub repositories. Requires [Scriptable](https://apps.apple.com/app/scriptable/id1405459188).
 
-Designed to work for uYouPlus. But also works for other iOS apps uploaded on GitHub.
+Designed to work for uYouPlus. But also works for other iOS apps on GitHub.
 
 ![image](https://github.com/Dr-Sauce/uYouPlusUpdater/assets/82555878/adb38d9e-6ab6-4415-86aa-b90f1cec5620)
 
